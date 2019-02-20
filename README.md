@@ -44,7 +44,7 @@ source_3 | 10000 | -10 | 0 | 35
 
 
 
-##Note 
+## Note 
 The coordinates of bottom left corner of the cylinder (or the box containing the cylinder are x=0,y=0,z=0)
 
 Intensity is calculated for the center of each cubic cm.

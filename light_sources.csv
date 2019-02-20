@@ -1,4 +1,4 @@
 source_id,intensity,x,y,z
 source_1,10000,-10,120,35
-source_1,10000,-10,60,35
-source_1,10000,-10,0,35
+source_2,10000,-10,60,35
+source_3,10000,-10,0,35
